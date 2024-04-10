@@ -1,0 +1,64 @@
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.exe
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.deps.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.runtimeconfig.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.AssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.devops_assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\scopedcss\bundle\devops_assignment.styles.css
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.CopyComplete
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\refint\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.genruntimeconfig.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\Microservice project\devops_assignment\devops_assignment\obj\Debug\net6.0\ref\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.exe
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.deps.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.runtimeconfig.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\devops_assignment.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.AssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.devops_assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.devops_assignment.props
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\scopedcss\bundle\devops_assignment.styles.css
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.csproj.CopyComplete
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\refint\devops_assignment.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\devops_assignment.genruntimeconfig.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\devops_assignment\devops_assignment\obj\Debug\net6.0\ref\devops_assignment.dll
